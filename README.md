@@ -4,9 +4,9 @@
 - worth 50% of the marks for the module
 - Tasks Completed in a single jupyter notebook.
 
-======
-TASKS:
-======
+
+ ##TASKS:
+
 
 1. Python Function sqrt2
   (calculates and prints to the screen the square root of 2 to 100 decimal places)
