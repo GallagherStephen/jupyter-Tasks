@@ -5,7 +5,7 @@
 - Tasks Completed in a single jupyter notebook.
 
 
- ##TASKS:
+ ## TASKS:
 
 
 1. Python Function sqrt2
@@ -14,7 +14,7 @@
 2. The Chi-Squared 
   (It is used to analyse whether two categorical variables are independent.)
 
-3.The standard deviation of an array of numbers x is
+ 3.The standard deviation of an array of numbers x is
   calculated using numpy as np.sqrt(np.sum((x - np.mean(x))**2)/len(x)) .
 
 4.
